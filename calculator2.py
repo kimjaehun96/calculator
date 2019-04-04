@@ -20,4 +20,3 @@ else:
         print(mul(first, second))
     if user ==4:
         print(mul(first, second))
-    
